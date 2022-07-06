@@ -1,2 +1,2 @@
 #LOOPS
-if ... and whiles
+if and whiles
