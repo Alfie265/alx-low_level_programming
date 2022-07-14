@@ -1,0 +1,24 @@
+# C - More pointers, arrays and strings
+Concepts covered in this project are `pointers`, `arrays` and `strings`
+
+##Technoloies I used for this project are:
+- Environment: `Ubuntu 20.04 LTS`
+
+## Files
+The following files are contained in this project and a brief description
+|**File name**| **Brief Description**|
+|:-------------|----------------------|
+|0-strcat.c| a function that concatenates two strings|
+|1-strncat.c| a function that concatenates two strings|
+|2-strncpy.c| a function that copies a string|
+|3-strcmp.c| a function that compares two strings|
+|4-rev_array.c| a function that reverses the content of an array of integers|
+|5-string_toupper.c| a function that changes all lowercase letters of a string to uppercase|
+|6-cap_string.c| a function that capitalizes all words of a string|
+|7-leet.c| a function that encodes a string into [1337]
+|100-rot13.c| a function that encodes a string using [rot13]
+|101-print_number.c| a function that prints an integer|
+|102-magic.c
+|103-infinite_add.c| a function that adds two numbers|
+|104-print_buffer.c| a function that prints a buffer|
+
